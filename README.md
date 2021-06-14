@@ -1,4 +1,7 @@
 # Smart-Orders-Systems
-Model View Controller  ( Java + SQL )  for the activity in restaurants
+This is a Model View Controller Application using Java and SQL
 
-More ditails comming soon
+    This project aims to provide an interface that simplify the staff's interactions with their clients in regards the order 
+    process in a restaurant. 
+
+# [DEMO](https://github.com/RaduPelin/Smart-Orders-Systems/blob/master/Smart%20Orders%20%20Services.mp4)
